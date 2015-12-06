@@ -24,7 +24,7 @@ This file contains defines and macros for commands:
 ## How to use
 The Arduino folder contains a library that can be added to the Arduino IDE. It contains a demo that demonstrates all the commands.
 
-For all other platforms the Generic folder can be used. THe code is written in C and there is no hardware/platform dependence, therefore it should work out of the box.
+For all other platforms the Generic folder can be used. The code is written in C and there is no hardware/platform dependence, therefore it should work out of the box.
 
 ## Copyright & License
 
